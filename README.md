@@ -29,10 +29,9 @@ This project implements front-end of hello-react app using React.
 
 ### Built With
 
-The Recipe App was built with:
+The Hello react-frontend was built with:
 
-- Ruby On Rails
-- PostgreSQL
+- React
 
 ### Live Demo
 
@@ -72,7 +71,7 @@ To run this project, you'll need to install:
 
 To run the project, execute the following command:
 
-`./bin/dev`
+`npm start`
 
 ### Testing
 
