@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
-const GreetingUrl = 'http://localhost:3000/api/v1/messages'
+const GreetingUrl = 'http://localhost:3000'
 const Method = '/get/messages';
 const initialState = {};
 
