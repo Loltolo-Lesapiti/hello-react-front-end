@@ -1,112 +1,56 @@
-<div align="center">
-  
-  
-  <h1>Hello React front-end</h1>
-  <h3>This project implements front-end of hello-react app using React.  </h3>
-</div>
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Table of Contents
+# Hello React front-end
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-  - [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-  - [Deployment](#deployment)
-- [Authors](#authors)
-- [Future Features](#future-features)
-- [Contributing](#contributing)
-- [Show Your Support](#show-your-support)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+> This is a practise project that demostrates how to create a full stack application using two different repositories. React and redux for front-end. And Ruby on rails for backend.
 
-## About the Project
+## Built With :gear:
 
-This project implements front-end of hello-react app using React.
-
-### Built With
-
-The Hello react-frontend was built with:
-
+- JavaScript
 - React
-
-### Live Demo
-
-You can view a live demo of the Recipe App at COMING SOON.
+- Redux Toolkit
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
+To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### 1- Prerequisites
 
-To run this project, you'll need to install:
+You must have `Git` and `npm` installed in your machine.
 
-- Ruby 2.7.0 or later
-- Rails 6.0 or later
-- PostgreSQL
+### 2- Setup
 
-### Installation
+Run either of the following commands to clone the repository locally:
 
-1. Clone this repository to your desired folder:
+```bash
+git clone https://github.com/Loltolo-Lesapiti/hello-react-front-end
+```
 
-`git clone https://github.com/Loltolo-Lesapiti/hello-react-front-end`
+```bash
+git clone https://github.com/Loltolo-Lesapiti/-hello-rails-back-end
+```
 
-`cd hello-rails-app`
+### 3- Install
 
-2. Install the required gems:
+Run `npm install` to install all the necessary dependencies.
 
-`bundle install`
-
-3. Set up the database:
-
-`rails db:create`
-
-`rails db:migrate`
-
-### Usage
-
-To run the project, execute the following command:
-
-`npm start`
-
-### Testing
-
-To run tests, run the following command:
-
-`bundle exec rspec`
-
-### Deployment
-
-You can deploy this project using:
-
-- Heroku
-- AWS Elastic Beanstalk
-- Other cloud hosting providers
-
-## Authors
+## Author
 
 👤 **Petro Loltolo Lesapiti**
 
 - GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
 - LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
 
-## Contributing
+## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]()
+Contributions, issues, and feature requests are welcome!
 
-## Show Your Support
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgements
+## 📝 License
 
-- [Microverse](https://www.microverse.org/) for providing the education that inspired this project.
-- [RailsGuides](https://guides.rubyonrails.org/) for the excellent documentation on Ruby on Rails.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is [MIT](./LICENSE.txt) licensed.
