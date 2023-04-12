@@ -74,9 +74,11 @@
 
 - N/A
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Related-repos <a name="Related-repos"></a>
 
-<!-- GETTING STARTED -->
+- https://github.com/Loltolo-Lesapiti/-hello-rails-back-end.git - Hello rails backend.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -92,13 +94,19 @@ In order to run this project you need: Git and Node.js installed on your compute
 
 ### Setup
 
+- Clone this repository to your desired folder:
+
+`git clone https://github.com/Loltolo-Lesapiti/-hello-rails-back-end.git`
+
+`cd your-folder`
+
 - npm install # to install all the dependencies
 
 ### Install
 
 Install this project with:
 
-- cd Hello-rails-front-end
+- cd your-folder
 - npm install
 
 ### Usage
