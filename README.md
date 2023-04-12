@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  
+  
+  <h1>Hello React Front-end</h1>
+  <h3>This project implements the front-end for hello-react app.  </h3>
+</div>
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -7,6 +13,7 @@ This is an example of how you may give instructions on setting up your project l
 Modify this file to match your project and remove sections that don't apply.
 
 REQUIRED SECTIONS:
+
 - Table of Contents
 - About the Project
   - Built With
@@ -20,6 +27,7 @@ REQUIRED SECTIONS:
 - License
 
 OPTIONAL SECTIONS:
+
 - FAQ
 
 After you're finished please remove all the comments and instructions!
