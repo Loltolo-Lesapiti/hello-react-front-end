@@ -5,7 +5,6 @@
   
   <h1>Hello React Front-end App</h1>
 </div>
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -13,6 +12,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Future features](#future-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -24,8 +24,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello React front-end <a name="about-project"></a>
 
@@ -66,13 +64,15 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - Displays a random greeting
 - Consumes an api created with RoR
 - Uses two apps to create a full-stack application, fron-end and backend separate
+
+### Key Features <a name="key-features"></a>
+
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,60 +84,31 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: Git and Node.js installed on your computer.
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- For windows users you can download Git from here: https://git-scm.com/download/win and Node.js from here: https://nodejs.org/en/download/
+- For Mac users you can download Git from here: https://git-scm.com/download/mac and Node.js from here: https://nodejs.org/en/download/
+- For Linux users you can download Git from here: https://git-scm.com/download/linux and Node.js from here: https://nodejs.org/en/download/
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/Loltolo-Lesapiti/hello-react-front-end
-```
-```bash
-git clone https://github.com/Loltolo-Lesapiti/-hello-rails-back-end
-```
---->
+- npm install # to install all the dependencies
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  npm install
-```
---->
+- cd Hello-rails-front-end
+- npm install
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  npm start
-```
---->
+- npm start # for running the project in development mode
+- npm run build # for building the project for production
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -148,11 +119,7 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -162,23 +129,17 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
