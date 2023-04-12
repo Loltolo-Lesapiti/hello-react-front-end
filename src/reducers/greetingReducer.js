@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
-const GreetingUrl = 'http://localhost:3000'
+const GreetingUrl = 'http://localhost:3000';
 const Method = '/get/messages';
 const initialState = {};
 
@@ -10,17 +10,17 @@ export const GreetingsThunk = createAsyncThunk(Method, async () => {
 });
 
 const GreetingSlice = createSlice({
-    name: 'Greetings',
-    initialState,
-    reducers: {},
-    extraReducers: {
-      [GreetingsThunk.fulfilled]: (state, action) => {
-        const { payload } = action;
-        return {
-          ...payload,
-        };
-      },
+  name: 'Greetings',
+  initialState,
+  reducers: {},
+  extraReducers: {
+    [GreetingsThunk.fulfilled]: (state, action) => {
+      const { payload } = action;
+      return {
+        ...payload,
+      };
     },
-  });
+  },
+});
 
-  export default GreetingSlice.reducer;
+export default GreetingSlice.reducer;

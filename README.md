@@ -42,16 +42,12 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -60,24 +56,21 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello React front-end] <a name="about-project"></a>
+# 📖 Hello React front-end <a name="about-project"></a>
 
 > This is a practise project that demostrates how to create a full stack application using two different repositories. React and redux for front-end. And Ruby on rails for backend.
 
-**[Hello React front-end]** is a...
+**Hello React front-end**
 
 ## 🛠 Built With <a name="built-with"></a>
-
-- JavaScript
-- React
-- Redux Toolkit
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - JavaScript
+- React-DOM
 - React
 - Redux Toolkit
-- Postgres and Ruby on Rails for the backend-side on a sepate app.
+- Redux
 
 > JavaScript and React and redux was used to develop the front-end of this application which is available in this app. Postgres and Ruby on Rails was used to develop the back-end which is in a separate app.
 
@@ -111,16 +104,6 @@ After you're finished please remove all the comments and instructions!
 - **[Displays a random greeting]**
 - **[Consumes an api created with RoR]**
 - **[Uses two apps to create a full-stack application, fron-end and backend separate]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,18 +168,6 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -241,22 +212,6 @@ If you like this project...
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
