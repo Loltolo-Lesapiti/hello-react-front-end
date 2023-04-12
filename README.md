@@ -1,56 +1,271 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Hello React front-end
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello React front-end] <a name="about-project"></a>
 
 > This is a practise project that demostrates how to create a full stack application using two different repositories. React and redux for front-end. And Ruby on rails for backend.
 
-## Built With :gear:
+**[Hello React front-end]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
 
 - JavaScript
 - React
 - Redux Toolkit
 
-## Getting Started
+### Tech Stack <a name="tech-stack"></a>
 
-To get a local copy up and running follow these simple example steps.
+- JavaScript
+- React
+- Redux Toolkit
+- Postgres and Ruby on Rails for the backend-side on a sepate app.
 
-### 1- Prerequisites
+> JavaScript and React and redux was used to develop the front-end of this application which is available in this app. Postgres and Ruby on Rails was used to develop the back-end which is in a separate app.
 
-You must have `Git` and `npm` installed in your machine.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-### 2- Setup
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://nodejs.com/">node.js</a></li>
+  </ul>
+</details>
 
-Run either of the following commands to clone the repository locally:
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-```bash
-git clone https://github.com/Loltolo-Lesapiti/hello-react-front-end
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Displays a random greeting]**
+- **[Consumes an api created with RoR]**
+- **[Uses two apps to create a full-stack application, fron-end and backend separate]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
 ```
+ -->
 
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://github.com/Loltolo-Lesapiti/hello-react-front-end
+```
 ```bash
 git clone https://github.com/Loltolo-Lesapiti/-hello-rails-back-end
 ```
+--->
 
-### 3- Install
+### Install
 
-Run `npm install` to install all the necessary dependencies.
+Install this project with:
 
-## Author
+<!--
+Example command:
+
+```sh
+  cd my-project
+  npm install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  npm start
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Petro Loltolo Lesapiti**
 
 - GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
 - LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## 📝 License
+## ⭐️ Show your support <a name="support"></a>
 
-This project is [MIT](./LICENSE.txt) licensed.
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
