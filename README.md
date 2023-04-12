@@ -70,9 +70,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Displays a random greeting]**
-- **[Consumes an api created with RoR]**
-- **[Uses two apps to create a full-stack application, fron-end and backend separate]**
+- Displays a random greeting
+- Consumes an api created with RoR
+- Uses two apps to create a full-stack application, fron-end and backend separate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
